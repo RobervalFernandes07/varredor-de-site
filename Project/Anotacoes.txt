@@ -1,0 +1,23 @@
+# Repita os passos manuais , usando código.
+
+1 - Entrar no site - https://devaprender-play.netlify.app/
+
+2 - Anotar os nomes dos produtos.
+//h3[@class='text-lg font-semibold text-gray-900 group-hover:text-indigo-600']
+
+3 - Anotar os preços dos primeiros produtos.
+//p[@class="text-2xl font-bold text-indigo-600"]
+
+4 - Repetir para todos os produtos da página.
+
+
+5 - Guardar informações em arquivo de texto (csv).
+
+
+-----------------------------------------------
+XPATH (identificador de elementos no site)
+//tag[@atributo='valor']
+
+//h3[@class='text-lg font-semibold text-gray-900 group-hover:text-indigo-600']
+
+//p[@class="text-2xl font-bold text-indigo-600"]
